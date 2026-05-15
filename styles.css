@@ -1,0 +1,27 @@
+/* Change page background */
+body {
+    background-color: lightblue;
+    font-family: Arial, sans-serif;
+    margin: 20px;
+}
+
+/* Style heading */
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+/* Style paragraph */
+p {
+    color: black;
+    font-size: 18px;
+}
+
+/* Style button */
+button {
+    background-color: blue;
+    color: white;
+    padding: 10px 15px;
+    border: none;
+    border-radius: 5px;
+}
